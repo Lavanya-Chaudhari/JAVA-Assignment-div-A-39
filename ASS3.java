@@ -29,20 +29,6 @@ public class ListOfNames {
         System.out.println("List : ");
         for (int r = 0; r < list.size(); r++) {
             System.out.println(list.get(r));
-            // char ch;
-            // int i = 0;
-            // for (int j = 0; j < list.get(r).length(); j++) {
-            // ch = list.get(r).charAt(j);
-            // if (ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
-            // i = 1;
-            // // System.out.println(ch);
-            // // System.out.println("--------------");
-            // }
-            // }
-            // System.out.println("The name " + list.get(r) + " contains vowels, and the
-            // vowels are : ");
-            // if (i == 0)
-            // System.out.println("There are no vowels in a entered string");
         }
     }
 
