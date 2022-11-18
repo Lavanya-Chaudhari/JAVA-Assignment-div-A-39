@@ -1,7 +1,7 @@
 import java.text.DecimalFormat;
 import java.util.*;
 
-public class Pro5PartB {
+public class Ass5Part2 {
     public void getTime(int h, int m, int s) {
 
         Scanner sc = new Scanner(System.in);
@@ -77,7 +77,7 @@ public class Pro5PartB {
 
     public static void main(String[] args) {
 
-        Pro5PartB pb = new Pro4PartB();
+        Ass5Part2 pb = new Ass5Part2();
 
         pb.getTime(11, 23, 44);
     }
