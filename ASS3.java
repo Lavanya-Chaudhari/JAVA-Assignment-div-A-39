@@ -5,11 +5,11 @@ public class ListOfNames {
     public ArrayList<String> list = new ArrayList<String>();
 
     public ListOfNames() {
-        list.add("EMMA");
-        list.add("ANNABELLA");
-        list.add("SKY");
-        list.add("PETER");
-        list.add("ROHAN");
+        list.add("Lavanya");
+        list.add("Jenish");
+        list.add("Ayush");
+        list.add("Princy");
+        list.add("Anish");
     }
 
     public void add(String tname) {
