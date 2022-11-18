@@ -35,13 +35,13 @@ ASSIGNMENT QUESTION 4
 
 ASSIGNMENT QUESTION 5 PART1
 
-![](ASS5PART1_SS.PNG)
+![](ASS5_PART1SS.PNG)
 
 -------------------------------------------------------------------
 
 ASSIGNMENT QUESTION 5 PART2
 
-![](ASS5PART2_SS.PNG)
+![](ASS5_PART2SS.PNG)
 
 -------------------------------------------------------------------
 
