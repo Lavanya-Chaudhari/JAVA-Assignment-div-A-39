@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Pro4 {
+public class Assignment5 {
    public static void main(String[] args) {
 
       int hours = 23;
