@@ -1,19 +1,19 @@
 import java.util.Scanner;
 
-public class Assignment {
+public class Assignment2 {
 
     public String studentName;
     public double assignmentMark;
     public double studentMark;
     public double grade;
 
-    public Assignment(String mystudentname, double mystudentmark, double myassignmentmark) {
+    public Assignment2(String mystudentname, double mystudentmark, double myassignmentmark) {
         studentName = mystudentname;
         studentMark = mystudentmark;
         assignmentMark = myassignmentmark;
     }
 
-    public Assignment() {
+    public Assignment2() {
         assignmentMark = 100;
     }
 
@@ -37,7 +37,7 @@ public class Assignment {
         System.out.println("Please Enter Student Marks : ");
         int studentMark = sc.nextInt();
 
-        Assignment a1 = new Assignment();
+        Assignment2 a1 = new Assignment();
 
         a1.calculates(studentMark);
 
